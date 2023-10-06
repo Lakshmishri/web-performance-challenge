@@ -20,3 +20,10 @@
         url('../fonts/alegreya-v29-latin-900.ttf') format('truetype'), /* Safari, Android, iOS */
         url('../fonts/alegreya-v29-latin-900.svg#Alegreya') format('svg'); /* Legacy iOS */
 }
+@font-face {
+  font-family: 'Architects Daughter';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+      url('../fonts/architect-daughter.woff2') format('woff2'); /* Super Modern Browsers */
+}
