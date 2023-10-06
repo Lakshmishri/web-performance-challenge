@@ -2,6 +2,7 @@
   .header__content {
     flex-direction: column;
     padding-bottom: 30px;
+    max-width: 100%;
   }
 
   .main__hero {
@@ -29,5 +30,9 @@
 
   .cookieLayer__base {
     bottom: 0;
+  }
+
+  .main__video {
+    display: inline-block;
   }
 }
